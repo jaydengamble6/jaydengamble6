@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydengamble6
 - 👀 I’m interested in Computer Science, and some coding.
-- 🌱 I’m currently learning Roblox Lua, I'm starting easy.
+- 🌱 I’m currently learning Roblox Lua and some web stuff.
 - 📫 How to reach me: DM me on Instagram my username is @jaydengamble6.
 
 <!---
