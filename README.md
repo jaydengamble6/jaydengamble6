@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @jaydengamble6
-- 👀 I’m interested in Computer Science, and some coding.
-- 🌱 I’m currently learning Roblox Lua and some web stuff.
-- 📫 How to reach me: DM me on Instagram my username is @jaydengamble6.
+hi im wumbomumbo welcome to my github where i make random stuff
 
-<!---
-jaydengamble6/jaydengamble6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydengamble6)](https://github.com/anuraghazra/github-readme-stats)
